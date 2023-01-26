@@ -1,0 +1,64 @@
+.container1{
+    width: 100px;
+    text-align: center;
+    position:relative;
+    margin-left: 80px;
+}
+
+.voting{
+    position: relative;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+} 
+
+.input{
+    width: 10px;
+    border: none;
+    background: none;
+    color: black;
+    font-size: 10px;
+    margin: 0 10px;
+    pointer-events: none;
+}
+.button{
+    color: black;
+    background: none;
+    border: none;
+    font-size: 30px;
+    padding: 0 15px;
+    margin: 10px 0;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.button:active{
+    color: #004eff;
+    transform: scale(1.2);
+}
+
+
+
+
+
+.like-btn{
+    padding: 6px  5px;
+    background: blue;
+    font-size: 18px;
+    font-family: "Open sans" "sans serif";
+    border: none;
+    outline: none;
+    color: aliceblue;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.nav a{
+    background-color: red;
+    
+}
+
+.v8{
+    text-align: center;
+}
